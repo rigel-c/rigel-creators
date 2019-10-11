@@ -9,6 +9,10 @@
  z-index: -100;
  background-size: cover;
 }
+.wrap{
+ height: 100vh;
+ background: linear-gradient(-45deg, rgba(4, 114, 124, 0.4), rgba(17, 66, 99, 0.6));
+}
 .top-wrapper{
     background-color: white;
     background-size: cover;
