@@ -1,0 +1,27 @@
+
+/* スマホ向けレイアウト */
+@media all and (max-width: 670px) {
+  .member {
+    width: 100%;
+  }
+
+  .btton {
+    width: 100%;
+  }
+
+  .btn-push {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+}
