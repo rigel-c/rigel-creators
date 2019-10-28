@@ -4,7 +4,18 @@
   .member {
     width: 100%;
   }
-
+  .member-wrapper {
+    width: 100%;
+  }
+  .top-wrapper{
+    width:100%;
+  }
+.survice-wrapper{
+  width:100%;
+}
+.contact-wrapper{
+  width:100%;
+}
   .btton {
     width: 100%;
   }
